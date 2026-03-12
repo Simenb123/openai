@@ -1,0 +1,27 @@
+[
+  {
+    "id": "isa230_formal",
+    "question": "Hva er formålet med ISA 230?",
+    "expect": {
+      "sources": [
+        "ISA-230"
+      ],
+      "anchors": []
+    }
+  },
+  {
+    "id": "isa230_p8",
+    "question": "Hva sier ISA 230 punkt 8 om revisjonsdokumentasjon?",
+    "expect": {
+      "sources": [
+        "ISA-230"
+      ],
+      "anchors": [
+        {
+          "source_id": "ISA-230",
+          "anchor": "P8"
+        }
+      ]
+    }
+  }
+]

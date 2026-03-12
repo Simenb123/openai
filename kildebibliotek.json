@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "ISA-230",
+      "title": "ISA 230 Revisjonsdokumentasjon",
+      "doc_type": "ISA",
+      "files": ["kilder/isa230.txt"],
+      "tags": ["dokumentasjon"],
+      "metadata": { "isa_no": 230, "language": "no" }
+    }
+  ],
+  "relations": []
+}

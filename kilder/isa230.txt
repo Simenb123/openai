@@ -1,0 +1,186 @@
+INTERNASJONAL REVISJONSSTANDARD ISA 230
+REVISJONSDOKUMENTASJON
+(Gjelder for revisjon av regnskaper for perioder som begynner 1. januar 2010 eller senere.)
+INNHOLD
+Punkt
+Innledning
+Denne ISA-ens virkeområde ........................................................................................... 1
+Typer av og formål med revisjonsdokumentasjon .......................................................... 2–3
+Ikrafttredelsesdato ............................................................................ ............................. 4
+Mål ................................................................................................................................. 5
+Definisjoner ................................................................................................................... 6
+Krav
+Rettidig utarbeidelse av revisjonsdokumentasjon ........................................................... 7
+Dokumentasjon av gjennomførte revisjonshandlinger og innhentet revisjonsbevis ....... 8–13
+Sammenstilling av endelig oppdragsarkiv ...................................................................... 14–16
+Veiledning og utfyllende forklaringer
+Rettidig utarbeidelse av revisjonsdokumentasjon ........................................................... A1
+Dokumentasjon av gjennomførte revisjonshandlinger og innhentet revisjonsbevis ....... A2–A20
+Sammenstilling av endelig oppdragsarkiv ...................................................................... A21–A24
+Vedlegg: Spesifikke krav til revisjonsdokumentasjon i andre ISA-er
+ISA 230 «Revisjonsdokumentasjon» må leses i sammenheng med ISA 200 «Overordnede mål for den uavhengige revisor og gjennomføringen av en revisjon i samsvar med de internasjonale revisjonsstandardene».
+4 ISA 230
+Innledning
+Denne ISA-ens virkeområde
+1. Denne revisjonsstandarden (ISA-en) omhandler revisors oppgaver med og plikter til å utarbeide revisjonsdokumentasjon ved revisjon av et regnskap. Vedlegget inneholder en oversikt over andre ISA-er som inneholder spesifikke dokumentasjonskrav og veiledning. De spesifikke dokumentasjonskravene i andre ISA-er begrenser ikke anvendelsen av denne ISA-en. Lov eller forskrift kan fastsette ytterligere dokumentasjonskrav.
+Typer av og formål med revisjonsdokumentasjon
+2. Revisjonsdokumentasjon som oppfyller kravene i denne ISA-en og de spesifikke dokumentasjons-kravene i andre relevante ISA-er, gir:
+(a) bevis for revisors grunnlag for en konklusjon om oppnåelsen av revisors overordnede mål,1 og
+(b) bevis for at revisjonen ble planlagt og gjennomført i samsvar med ISA-ene og gjeldende lovmessige og regulatoriske krav.
+3. Revisjonsdokumentasjon tjener en rekke andre formål, herunder å:
+• Være til hjelp for oppdragsteamet ved planleggingen og gjennomføringen av revisjonen.
+• Være til hjelp for medlemmer av oppdragsteamet med oppfølgings- og veiledningsansvar, til å styre og føre tilsyn med revisjonsarbeidet og til å oppfylle sine plikter med hensyn til gjennomgåelse av arbeidet i samsvar med ISA 220 (Revidert).2
+• Gjøre det mulig for oppdragsteamet å underbygge at de har oppfylt sitt ansvar ved gjennomføring av arbeidet.
+• Bevare oversikt over forhold av betydning for fremtidige revisjoner.
+• Gjøre det mulig å gjennomføre oppdragskontroller3, andre typer oppdragskontroller4 og overvåkingsaktiviteter etter firmaets system for kvalitetsstyring.
+• Gjøre det mulig å gjennomføre eksterne inspeksjoner i samsvar med gjeldende lovmessige, regulatoriske eller andre krav.
+Ikrafttredelsesdato
+4. Denne ISA-en gjelder for revisjon av regnskaper for perioder som begynner 1. januar 2010 eller senere.
+Mål
+5. Revisors mål er å utarbeide dokumentasjon som gir:
+(a) et tilstrekkelig og hensiktsmessig grunnlag for revisjonsberetningen, og
+(b) bevis for at revisjonen ble planlagt og utført i samsvar med ISA-ene og gjeldende lovmessige og regulatoriske krav.
+1 ISA 200 «Overordnede mål for den uavhengige revisor og gjennomføringen av en revisjon i samsvar med de internasjonale revisjonsstandardene» punkt 11.
+2 ISA 220 (Revidert) «Kvalitetsstyring av revisjon av regnskaper» punkt 29-34.
+3 Internasjonal standard for kvalitetsstyring (ISQM) 2, Oppdragskontroll
+4 ISQM 1 Kvalitetsstyring for revisjonsforetak som utfører revisjon eller forenklet revisorkontroll av regnskaper, eller andre attestasjonsoppdrag eller beslektede tjenester, punkt A135
+5 ISA 230
+Definisjoner
+6. For ISA-enes formål har følgende begreper den betydning som er beskrevet nedenfor:
+(a) revisjonsdokumentasjon − de gjennomførte revisjonshandlingene som er dokumentert, innhentede relevante revisjonsbevis og konklusjoner revisor er kommet frem til (begrepet «arbeidspapirer» blir også benyttet).
+(b) oppdragsarkiv − en eller flere mapper eller andre lagringsmedier, i fysisk eller elektronisk form, som inneholder registrerte opplysninger som utgjør revisjonsdokumentasjonen for et bestemt oppdrag.
+(c) erfaren revisor − en person (enten i eller utenfor revisjonsselskapet) som har praktisk revisjonserfaring og rimelig kjennskap til:
+(i) revisjonsprosessene,
+(ii) ISA-ene og gjeldende lovmessige og regulatoriske krav,
+(iii) det forretningsmiljøet som enheten opererer i, og
+(iv) revisjonsmessige og finansielle rapporteringsforhold som er relevante for enhetens bransje.
+Krav
+Rettidig utarbeidelse av revisjonsdokumentasjon
+7. Revisor skal utarbeide revisjonsdokumentasjon i rett tid. (Jf. punkt A1)
+Dokumentasjon av gjennomførte revisjonshandlinger og innhentet revisjonsbevis
+Form, innhold og omfang av revisjonsdokumentasjon
+8. Revisor skal utarbeide revisjonsdokumentasjon på en slik måte at en erfaren revisor som tidligere ikke har hatt tilknytning til revisjonsoppdraget, forstår følgende: (Jf. punkt A2–A5, A16–A17)
+(a) typen, tidspunktet for og omfanget av revisjonshandlingene som er utført for å oppfylle ISA-ene og gjeldende lovmessige og regulatoriske krav, (Jf. punkt A6–A7)
+(b) resultatene av gjennomførte revisjonshandlinger og innhentet revisjonsbevis, og
+(c) vesentlige forhold som avdekkes under revisjonen, konklusjonene på dem, og viktige profesjonelle vurderinger som er foretatt for å komme frem til disse konklusjonene. (Jf. punkt A8–A11)
+9. Ved dokumentasjon av type, tidspunkt og omfang av gjennomførte revisjonshandlinger skal revisor registrere:
+(a) de identifiserende egenskapene i de postene eller forholdene som testes, (Jf. punkt A12)
+(b) hvem som utførte revisjonsarbeidet og datoen arbeidet var ferdig, og
+(c) hvem som gjennomgikk det utførte revisjonsarbeidet, og datoen for og omfanget av denne gjennomgåelsen. (Jf. punkt A13)
+10. Revisor skal dokumentere diskusjoner av vesentlige forhold med ledelsen, dem som har overordnet ansvar for styring og kontroll, og andre, herunder arten av vesentlige forhold som ble diskutert, og når og med hvem diskusjonene fant sted. (Jf. punkt A14)
+11. Dersom revisor har identifisert informasjon som er i uoverensstemmelse med revisors endelige konklusjon om et viktig forhold, skal revisor dokumentere hvordan revisor håndterte uoverensstemmelsen. (Jf. punkt A15)
+6 ISA 230
+Avvik fra et relevant krav
+12. I de svært spesielle tilfellene hvor revisor finner det nødvendig å avvike fra et relevant krav i en ISA, skal revisor dokumentere hvordan alternative revisjonshandlinger som er gjennomført, oppfyller kravets formål, og årsakene til avviket. (Jf. punkt A18–A19)
+Forhold som oppstår etter datoen for revisjonsberetningen
+13. I de svært spesielle tilfellene hvor revisor gjennomfører nye eller ytterligere revisjonshandlinger eller trekker nye konklusjoner etter datoen for revisjonsberetningen, skal revisor dokumentere: (Jf. punkt A20)
+(a) omstendighetene som oppsto,
+(b) hvilke nye eller ytterligere revisjonshandlinger som er utført, hvilke revisjonsbevis som er innhentet og hvilke konklusjoner som er trukket, og deres innvirkning på revisjons-beretningen, og
+(c) når og hvem endringene i revisjonsdokumentasjonen ble utført og gjennomgått.
+Sammenstilling av endelig oppdragsarkiv
+14. Revisor skal sammenstille revisjonsdokumentasjonen i et oppdragsarkiv og fullføre den administrative prosessen for sammenstilling av det endelige oppdragsarkivet innen rimelig tid etter datoen for revisjonsberetningen. (Jf. punkt A21–A22)
+15. Etter at sammenstillingen av det endelige oppdragsarkivet er fullført, skal revisor ikke slette eller fjerne revisjonsdokumentasjon av noen art før den fastsatte oppbevaringstiden er utløpt. (Jf. punkt A23)
+16. Dersom revisor, under andre omstendigheter enn dem som omhandles i punkt 13, finner det nødvendig å endre eksisterende revisjonsdokumentasjon eller tilføye ny revisjonsdokumentasjon etter at sammenstillingen av oppdragsarkivet er ferdig, skal revisor, uten hensyn til endringenes eller tilleggenes karakter, dokumentere: (Jf. punkt A24)
+(a) de spesifikke årsakene til at de ble foretatt, og
+(b) når og av hvem de ble gjennomført og gjennomgått.
+***
+Veiledning og utfyllende forklaringer
+Rettidig utarbeidelse av revisjonsdokumentasjon (Jf. punkt 7)
+A1. Utarbeidelse av tilstrekkelig og hensiktsmessig revisjonsdokumentasjon i rett tid bidrar til å øke kvaliteten på revisjonen og legger til rette for en effektiv gjennomgåelse og evaluering av innhentet revisjonsbevis og konklusjonene som er trukket før revisjonsberetningen utformes. Dokumentasjon som utarbeides etter at revisjonsarbeidet er utført, vil sannsynligvis være mindre nøyaktig enn dokumentasjon som utarbeides samtidig som arbeidet utføres.
+Dokumentasjon av gjennomførte revisjonshandlinger og innhentet revisjonsbevis
+Form, innhold og omfang av revisjonsdokumentasjon (Jf. punkt 8)
+A2. Form, innhold og omfang av revisjonsdokumentasjon avhenger av faktorer som:
+• Enhetens størrelse og kompleksitet.
+• Typen revisjonshandlinger som skal utføres.
+7 ISA 230
+• De identifiserte risikoene for vesentlig feilinformasjon.
+• Betydningen av innhentet revisjonsbevis.
+• Typen og omfanget av identifiserte avvik.
+• Behovet for å dokumentere en konklusjon eller et konklusjonsgrunnlag som ikke enkelt kan fastslås ut fra dokumentasjonen av arbeidet som er utført, eller ut fra revisjonsbeviset som er innhentet.
+• Revisjonsmetodikk og verktøy som er benyttet.
+A3. Revisjonsdokumentasjon kan være registrert på papir eller elektroniske eller andre medier. Eksempler på revisjonsdokumentasjon er:
+• Revisjonsprogrammer.
+• Analyser.
+• Problemnotater.
+• Sammendrag av viktige forhold.
+• Bekreftelser og uttalelser.
+• Sjekklister.
+• Korrespondanse (inkludert e-post) som gjelder viktige forhold.
+Revisor kan inkludere sammendrag eller kopier av enhetens dokumenter (for eksempel viktige og spesifikke kontrakter og avtaler) i revisjonsdokumentasjonen. Revisjonsdokumentasjon er imidlertid ikke en erstatning for enhetens regnskapsmateriale.
+A4. Revisor plikter ikke å inkludere i revisjonsdokumentasjonen erstattede utkast til arbeidspapirer og regnskap, notater som gjenspeiler ufullstendige eller foreløpige vurderinger, tidligere kopier av dokumenter som er korrigert for skrivefeil eller andre feil, og duplikat av dokumenter.
+A5. Muntlige forklaringer fra revisor er ikke alene tilstrekkelig til å underbygge arbeidet revisor har utført eller konklusjoner han har nådd, men kan brukes til å forklare eller klargjøre informasjon i revisjons-dokumentasjonen.
+Dokumentasjon av samsvar med ISA-ene (Jf. punkt 8(a))
+A6. I prinsippet vil samsvar med kravene i denne ISA-en føre til at revisjonsdokumentasjonen er tilstrekkelig og hensiktsmessig under omstendighetene. Andre ISA-er inneholder spesifikke dokumentasjonskrav som er ment å klargjøre anvendelsen av denne ISA-en i de konkrete omstendighetene som omhandles i disse andre ISA-ene. De spesifikke dokumentasjonskravene i andre ISA-er begrenser ikke anvendelsen av denne ISA-en. Videre er mangelen på et dokumentasjonskrav i en bestemt ISA ikke ment å antyde at det ikke skal utarbeides dokumentasjon for å sikre samsvar med den aktuelle ISA-en.
+A7. Revisjonsdokumentasjon gir bevis for at revisjonen er i samsvar med ISA-ene. Det er imidlertid verken nødvendig eller praktisk gjennomførbart for revisor å dokumentere alle forhold som vurderes, eller ethvert profesjonelt skjønn som anvendes, i løpet av en revisjon. Videre er det unødvendig for revisor å dokumentere samsvar med forhold separat (for eksempel i en sjekkliste) når dette samsvaret er påvist av dokumenter i oppdragsarkivet. For eksempel:
+• Eksistensen av en tilstrekkelig dokumentert revisjonsplan viser at revisor har planlagt revisjonen.
+• Eksistensen av et undertegnet engasjementsbrev i oppdragsarkivet viser at revisor er enig med ledelsen, eller der det er relevant, med dem som har overordnet ansvar for styring og kontroll, om vilkårene for revisjonsoppdraget.
+• En revisjonsberetning som inneholder et relevant forbehold til regnskapet, viser at revisor har overholdt kravet om å gi uttrykk for et forbehold under omstendighetene spesifisert i ISA-ene.
+• I forbindelse med generelle krav som gjelder under hele revisjonen, kan samsvar med disse vises på flere måter i oppdragsarkivet:
+8 ISA 230
+− For eksempel kan det være at det ikke finnes en enkelt måte som revisor kan dokumentere sin profesjonelle skepsis på. For eksempel, med hensyn til regnskapsestimater, når revisjonsbeviset som er innhentet omfatter bevis som både bekrefter og motsier ledelsens påstander, kan dokumentasjonen inkludere hvordan revisor evaluerte dette beviset, herunder de profesjonelle vurderingene som er foretatt for å utarbeide en konklusjon knyttet til tilstrekkeligheten og hensiktsmessigheten av revisjonsbeviset som ble innhentet.
+− Likeledes kan oppdragsansvarlig revisors ansvar for å rettlede ogfølge opp revisjonsteamet og gjennomgangen av deres arbeid5, vises på flere måter i revisjonsdokumentasjonen. Dette kan omfatte dokumentasjon som beviser oppdragsansvarlig revisors tilstrekkelige og hensiktsmessige deltakelse i revisjonen, for eksempel deltakelse i revisjonsteamets diskusjoner.
+Dokumentasjon av vesentlige forhold og tilhørende viktige profesjonelle vurderinger (Jf. punkt 8(c))
+A8. Vurdering av vesentligheten av et forhold krever en objektiv analyse av fakta og omstendigheter. Eksempler på vesentlige forhold er:
+• Forhold som fører til særskilte risikoer (slik det er definert i ISA 315).6
+• Resultater av revisjonshandlinger som indikerer (a) at regnskapet kan inneholde vesentlig feilinformasjon, eller (b) et behov for å revurdere revisors tidligere vurdering av risikoen for vesentlig feilinformasjon og revisors håndtering av disse risikoene.
+• Omstendigheter som medfører at revisor får betydelige problemer med å gjennomføre nødvendige revisjonshandlinger.
+• Funn som kan føre til avvikende konklusjon i revisjonsberetningen eller tilføyelse av et presiseringsavsnitt i revisjonsberetningen.
+A9. En viktig faktor ved fastsettelse av form, innhold og omfang av revisjonsdokumentasjon av vesentlige forhold, er omfanget av profesjonelt skjønn som er utøvd under utførelsen av arbeidet og evalueringen av resultatene. Dokumentasjon av de profesjonelle vurderingene som er foretatt, når disse er av betydning, bidrar til å forklare revisors konklusjoner og til å forsterke kvaliteten på vurderingen. Slike forhold er av særlig interesse for dem som er ansvarlige for å gjennomgå revisjonsdokumentasjonen, inkludert dem som utfører senere revisjoner når de gjennomgår forhold av fortsatt betydning (for eksempel ved utførelse av en retrospektiv gjennomgåelse av regnskapsestimater).
+A10. Noen eksempler på forhold hvor det i henhold til punkt 8 er relevant å utarbeide revisjons-dokumentasjon knyttet til anvendelsen av profesjonelt skjønn, der vurderingene og forholdene er vesentlige, er:
+• Begrunnelsen for revisors konklusjon når et krav tilsier at revisor «skal vurdere» visse opplysninger eller faktorer, og den vurderingen er viktig for det bestemte oppdraget.
+• Grunnlaget for revisors vurdering av hvorvidt regnskapsestimatene og tilhørende tilleggsopplysninger er rimelige innenfor rammen av det gjeldende rammeverket for finansiell rapportering, eller inneholder feilinformasjon.
+• Grunnlaget for revisors konklusjon om rimeligheten på områder som er gjenstand for subjektive vurderinger gjort av ledelsen.
+• Grunnlaget for revisors konklusjoner om ektheten av et dokument når det iverksettes ytterligere undersøkelser (for eksempel gjennom relevant bruk av en ekspert eller av bekreftelseshandlinger) som svar på forhold identifisert under revisjonen som fikk revisor til å tro at dokumentet kanskje ikke er ekte.
+• Når ISA 701 gjelder,7 revisors avgjørelse om hva som er sentrale forhold ved revisjonen, eller at det ikke er noen sentrale forhold ved revisjonen som skal kommuniseres.
+5 ISA 220 (Revidert), punkt 29
+6 ISA 315 (revidert) punkt 4(e).
+7 ISA 701, Kommunikasjon av sentrale forhold ved revisjonen i den uavhengige revisors beretning
+9 ISA 230
+A11. Revisor kan finne det nyttig å utarbeide og oppbevare en oppsummering (også kalt avslutnings-/sluttmemorandum eller -notat) som en del av revisjonsdokumentasjonen. Denne beskriver viktige forhold som er identifisert i løpet av revisjonen og hvordan de ble håndtert, eller den kan inneholde kryssreferanser til annen relevant, støttende revisjonsdokumentasjon som gir slik informasjon. En slik oppsummering kan legge til rette for effektive gjennomgåelser og inspeksjoner av revisjons-dokumentasjonen, særlig ved store og komplekse revisjonsoppdrag. Videre kan utarbeidelsen av en slik oppsummering hjelpe revisor i vurderingen av viktige forhold. Den kan også hjelpe revisor med å vurdere hvorvidt det, i lys av revisjonshandlingene som er gjennomført og konklusjonene som er trukket, finnes et enkelt relevant ISA-mål som revisor ikke kan oppnå som kan forhindre at revisor oppnår sitt overordnede mål.
+Identifikasjon av spesifikke poster eller forhold som testes, og av personer som har utført og av personer som har gjennomgått revisjonen (Jf. punkt 9)
+A12. Registrering av de identifiserende egenskapene tjener flere formål. For eksempel gjør det oppdragsteamet i stand til å redegjøre for sitt arbeid, og tilrettelegger for undersøkelsen av avvik eller uoverensstemmelser. De identifiserende egenskapene vil variere med typen revisjonshandlinger og posten eller forholdet som testes. For eksempel:
+• Ved utførelse av en detaljtest av innkjøpsordrer utstedt av enheten, kan revisor identifisere de valgte dokumentene ved hjelp av dato og unike innkjøpsordrenummer.
+• Ved utførelse av en revisjonshandling som krever utvelgelse eller gjennomgåelse av alle poster over et bestemt beløp fra en gitt populasjon, kan revisor registrere omfanget av handlingen og identifisere populasjonen (for eksempel alle posteringer over et bestemt beløp fra bokføringsjournalen).
+• Ved utførelse av en revisjonshandling som krever systematisk utvelgelse fra en populasjon av dokumenter, kan revisor identifisere de valgte dokumentene ved å registrere kilde, startpunkt og stikkprøveintervall (for eksempel systematiske stikkprøver av pakksedler fra fraktloggen i perioden 1. april til 30. september, der man starter med rapport nr. 12345 og deretter velger hver 125. pakkseddel).
+• Ved utførelse av en revisjonshandling som krever forespørsel til bestemte ansatte i enheten, kan revisor registrere datoen for forespørslene samt de ansattes navn og stilling.
+• Ved utførelse av en observasjonshandling kan revisor registrere prosessen eller forholdet som observeres, de relevante personene, deres respektive oppgaver og ansvar, samt hvor og når observasjonen ble utført.
+A13. ISA 220 (Revidert) inneholder krav til og veiledning om revisjonsdokumentasjon.8 Kravet om å dokumentere hvem som gjennomgikk det utførte revisjonsarbeidet innebærer ikke at hvert enkelt arbeidspapir må inneholde bevis for at det er gjennomgått. Kravet innebærer imidlertid at det må dokumenteres hvilket revisjonsarbeid som ble gjennomgått, hvem som gjennomgikk arbeidet, og når det ble gjennomgått.
+Dokumentasjon av diskusjoner om vesentlige forhold med ledelsen, med dem som har overordnet ansvar for styring og kontroll, og med andre (Jf. punkt 10)
+A14. Dokumentasjonen er ikke begrenset til nedtegnelser som er utarbeidet av revisor, men kan inneholde andre relevante nedtegnelser, for eksempel møtereferater utarbeidet av enhetens ansatte og godkjent av revisor. Andre som revisor kan diskutere vesentlige forhold med, kan være andre ansatte i enheten samt eksterne parter, for eksempel profesjonelle rådgivere for enheten.
+8 ISA 220 (Revidert) punkt 29-34.
+10 ISA 230
+Dokumentasjon av hvordan uoverensstemmelser er blitt håndtert (Jf. punkt 11)
+A15. Kravet om å dokumentere hvordan revisor har håndtert uoverensstemmende opplysninger innebærer ikke at revisor må oppbevare dokumentasjon som er uriktig eller erstattet.
+Særlige hensyn knyttet til mindre enheter (Jf. punkt 8)
+A16. Revisjonsdokumentasjonen ved revisjon av mindre enheter er vanligvis mindre omfattende enn ved revisjon av større enheter. Videre, ved en revisjon der oppdragsansvarlig revisor utfører alt revisjons-arbeidet, vil ikke dokumentasjonen inneholde forhold som det kan være nødvendig å dokumentere utelukkende for å informere eller veilede medlemmer av et oppdragsteam, eller for å gi bevis for at revisjonsdokumentasjonen er gjennomgått av andre medlemmer av teamet (for eksempel vil ikke forhold knyttet til teamdiskusjoner eller oppfølging bli dokumentert). Oppdragsansvarlig revisor oppfyller imidlertid det overstyrende kravet i punkt 8 om å utarbeide revisjonsdokumentasjon som kan bli forstått av en erfaren revisor, ettersom revisjonsdokumentasjonen kan bli gjennomgått av eksterne partner for regulatoriske eller andre formål.
+A17. Ved utarbeidelse av revisjonsdokumentasjon kan revisor for mindre enheter også finne det nyttig og hensiktsmessig å registrere forskjellige aspekter ved revisjonen i et enkelt dokument, med eventuelle kryssreferanser til understøttende arbeidspapirer. Eksempler på forhold som kan dokumenteres sammen ved revisjon av en mindre enhet, omfatter forståelsen av enheten dens omgivelser, det gjeldende rammeverket for finansiell rapportering og enhetens internkontrollsystem, den overordnede revisjonsstrategien og revisjonsplanen, vesentlighet bestemt i samsvar med ISA 320,9 anslåtte risikoer, viktige forhold notert under revisjonen, og konklusjoner som er trukket.
+Avvik fra et relevant krav (Jf. punkt 12)
+A18. Kravene i ISA-ene er utformet for å gjøre revisor i stand til å oppnå målene som er spesifiserte i ISA-ene, og dermed revisors overordnede mål. Bortsett fra under svært spesielle forhold forutsetter ISA-ene følgelig overholdelse av alle krav som etter omstendighetene er relevante for revisjonen.
+A19. Dokumentasjonskravet gjelder bare for krav som er relevante under omstendighetene. Et krav vil ikke relevant10 bare i de tilfeller der:
+(a) Hele ISA-en vil ikke være relevant (for eksempel er det ingenting i ISA 610(revidert)11 som er relevant dersom enheten ikke har noen internrevisjonsfunksjon), eller
+(b) Kravet er betinget, og tilstanden ikke eksisterer (for eksempel kravet om å modifisere revisors konklusjon der det er en manglende mulighet til å innhente tilstrekkelig og hensiktsmessig revisjonsbevis, og det er ikke er noe slik manglende mulighet).
+Forhold som oppstår etter datoen for revisjonsberetningen (Jf. punkt 13)
+A20. Eksempler på spesielle omstendigheter omfatter fakta som revisor blir oppmerksom på etter datoen for revisjonsberetningen, men som eksisterte på den aktuelle datoen og som, dersom den hadde vært kjent på denne datoen, kunne ha ført til at regnskapet ble endret eller til at revisor avgi avvikende konklusjon i revisjonsberetningen.12 De derav følgende endringene i revisjonsdokumentasjonen gjennomgås i samsvar med ansvaret for gjennomgåelse beskrevet i ISA 220 (Revidert).13
+9 ISA 320 «Vesentlighet ved planlegging og gjennomføring av en revisjon».
+10 ISA 200 punkt 22.
+11 ISA 610 (Revidert) Bruk av interne revisorers arbeid, punkt 2
+12 ISA 560 «Hendelser etter balansedagen» punkt 14.
+13 ISA 220 (Revidert) punkt 29-34
+11 ISA 230
+Sammenstilling av endelig oppdragsarkiv (Jf. punkt 14–16)
+A21. ISQM 1 (eller nasjonale krav som er minst like omfattende,) krever at revisjonsselskapers system for kvalitetsstyring etablerer et kvalitetsmål som adresserer sammenstillingen av oppdragsarkiv i rett tid etter uttalelsen.14 En passende tidsfrist for å fullføre sammenstillingen av det endelige oppdragsarkivet er vanligvis ikke mer enn 60 dager etter datoen for revisjonsberetningen.15
+A22. Fullførelsen av sammenstillingen av det endelige oppdragsarkivet etter datoen for revisjons-beretningen er en administrativ prosess som ikke innebærer at det gjennomføres nye revisjons-handlinger eller at det trekkes nye konklusjoner. Man kan imidlertid foreta endringer i revisjons-dokumentasjonen i den siste sammenstillingsfasen dersom de er av administrativ karakter. Eksempler på slike endringer er:
+• Sletting eller fjerning av erstattet dokumentasjon.
+• Sortering, sammenligning og kryssreferering av arbeidspapirer.
+• Avkryssing på avslutningssjekklister som er relatert til sammenstillingsprosessen.
+• Dokumentasjon av revisjonsbevis som revisor har innhentet, diskutert og blitt enig med relevante medlemmer av oppdragsteamet om før datoen på revisjonsberetningen.
+A23. ISQM 1 (eller nasjonale krav som er minst like omfattende,) krever at revisjonsselskapers system for kvalitetsstyring etablerer et kvalitetsmål som adresserer hensiktsmessig vedlikehold og oppbevaring av oppdragsdokumentasjon for å møte firmaets behov og overholde lover, forskrifter og relevante etiske krav eller profesjonelle standarder.16 For revisjonsoppdrag er oppbevaringsperioden vanligvis minst fem år etter revisjonsberetningens dato, eller etter datoen for konsernets revisjonsberetning, hvor det er relevant,17 dersom den kommer senere.
+A24. Et eksempel på en omstendighet hvor revisor kan finne det nødvendig å endre eksisterende revisjons-dokumentasjon eller tilføye ny revisjonsdokumentasjon etter at sammenstillingen av oppdragsarkivet er ferdig, er behovet for å klargjøre eksisterende revisjonsdokumentasjon som følge av kommentarer mottatt under overvåkingsaktiviteter eller eksterne inspeksjoner.
+14 ISQM 1 punkt 31(f).
+15 ISQM 1 punkt A83.
+16 ISQM 1 punkt 31(f).
+17 ISQM 1 punkt A85.
+12 ISA 230
+Vedlegg
+(Jf. punkt 1)
+Spesifikke krav

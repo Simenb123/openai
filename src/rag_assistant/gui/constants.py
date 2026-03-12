@@ -1,0 +1,28 @@
+DOC_TYPES = [
+    "ISA",
+    "ISQM",
+    "LOV",
+    "FORSKRIFT",
+    "FORARBEID",
+    "DOM",
+    "TILSYN",
+    "ARTIKKEL",
+    "KOMMENTAR",
+    "INSTRUKS",
+    "OTHER",
+]
+
+REL_TYPES = [
+    "RELATES_TO",
+    "REFERS_TO",
+    "APPLIES_TO",
+    "CLARIFIES",
+    "AUTHORIZED_BY",
+    "INTERPRETS",
+    "COMMENTARY_ON",
+    "SUPERVISION_OF",
+    "PREPARATORY_WORKS_FOR",
+    "GUIDANCE_FOR",
+    "IMPLEMENTS",
+    "AMENDS",
+]

@@ -1,0 +1,5 @@
+ISA 320 Vesentlighet ved planlegging og utførelse av revisjon.
+
+Standarden krever at revisor fastsetter vesentlighetsnivå for regnskapet som helhet,
+og eventuelt lavere vesentlighetsgrenser for enkelte klasser av transaksjoner,
+kontosaldoer eller tilleggsopplysninger.

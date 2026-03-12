@@ -1,0 +1,107 @@
+[
+  {
+    "id": "isa230_formal",
+    "question": "Hva er formålet med ISA 230?",
+    "expect": {
+      "sources": [
+        "ISA-230"
+      ],
+      "anchors": []
+    }
+  },
+  {
+    "id": "isa230_p8",
+    "question": "Hva sier ISA 230 punkt 8 om revisjonsdokumentasjon?",
+    "expect": {
+      "sources": [
+        "ISA-230"
+      ],
+      "anchors": [
+        {
+          "source_id": "ISA-230",
+          "anchor": "P8"
+        }
+      ]
+    }
+  },
+  {
+    "id": "isa230_tidspunkt",
+    "question": "Når skal revisjonsdokumentasjon utarbeides i henhold til ISA 230?",
+    "expect": {
+      "sources": [
+        "ISA-230"
+      ],
+      "anchors": []
+    }
+  },
+  {
+    "id": "isa230_innhold",
+    "question": "Hva bør revisjonsdokumentasjonen typisk inneholde ifølge ISA 230?",
+    "expect": {
+      "sources": [
+        "ISA-230"
+      ],
+      "anchors": []
+    }
+  },
+  {
+    "id": "isa230_signifikante_forhold",
+    "question": "Hva sier ISA 230 om dokumentasjon av signifikante forhold og profesjonelle vurderinger?",
+    "expect": {
+      "sources": [
+        "ISA-230"
+      ],
+      "anchors": []
+    }
+  },
+  {
+    "id": "isa230_endringer",
+    "question": "Hvordan skal endringer i revisjonsdokumentasjonen håndteres etter at endelig revisjonsfil er samlet?",
+    "expect": {
+      "sources": [
+        "ISA-230"
+      ],
+      "anchors": []
+    }
+  },
+  {
+    "id": "isa230_endelig_revisjonsfil",
+    "question": "Hva sier ISA 230 om sammenstilling av endelig revisjonsfil (final audit file)?",
+    "expect": {
+      "sources": [
+        "ISA-230"
+      ],
+      "anchors": []
+    }
+  },
+  {
+    "id": "isa230_oppbevaring",
+    "question": "Hvor lenge skal revisjonsdokumentasjon oppbevares etter ISA 230?",
+    "expect": {
+      "sources": [
+        "ISA-230"
+      ],
+      "anchors": []
+    }
+  },
+  {
+    "id": "isa230_form_og_innhold",
+    "question": "Hvilke faktorer påvirker form og innhold i revisjonsdokumentasjonen i ISA 230?",
+    "expect": {
+      "sources": [
+        "ISA-230"
+      ],
+      "anchors": []
+    }
+  },
+  {
+    "id": "isa230_sammenheng_med_andre_standarder",
+    "question": "Hvordan henger ISA 230 sammen med andre ISA-er og krav til revisjonsdokumentasjon?",
+    "expect": {
+      "sources": [
+        "ISA-230"
+      ],
+      "anchors": []
+    }
+  }
+]

@@ -1,26 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8599d15-ccf2-439e-9819-7209caf5ccd1" name="Changes" comment="" />
+    <list default="true" id="c8599d15-ccf2-439e-9819-7209caf5ccd1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden/golden_isa230.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golden/golden_isa230_pilot.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kildebibliotek.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kilder/Dom HR - saknr2008-447" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kilder/forskrift revisorloven" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kilder/isa230.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kilder/isa320.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kilder/revisorloven" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_admin_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_build_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_eval_golden.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_import_sources.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_pilot_isa230.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_qa_cli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rag_assistant/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rag_assistant/admin_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rag_assistant/build_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rag_assistant/document_ingestor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rag_assistant/env_loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rag_assistant/file_ingest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rag_assistant/kildebibliotek.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rag_assistant/qa_cli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rag_assistant/rag_bridge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rag_assistant/rag_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rag_assistant/settings_profiles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_build_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_document_ingestor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_entrypoints.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_env_loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_file_ingest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_kildebibliotek.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_rag_bridge_relations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_rag_index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Simenb123&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Simenb123/openai.git&quot;,
+    &quot;accountId&quot;: &quot;5f4d07fd-9395-497a-9f44-8df8dd996101&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="35UaYybbnFyX1WyXsek6gvbG7Kf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.build_index.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python -m rag_assistant.qa_cli --show-context \&quot;Hvordan vurderes vesentlighet etter ISA 320?\&quot;.executor&quot;: &quot;Run&quot;,
+    &quot;Python.run_qa_cli.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ib91/Desktop/PyCharmProjects/openai&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ib91\Desktop\PyCharmProjects\openai" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ib91\Desktop\PyCharmProjects\openai\kilder" />
+      <recent name="C:\Users\ib91\Desktop\PyCharmProjects\openai\kilder\dommer" />
+      <recent name="C:\Users\ib91\Desktop\PyCharmProjects\openai\kilder\standard\revisjonsstandarder" />
+      <recent name="C:\Users\ib91\Desktop\PyCharmProjects\openai" />
+      <recent name="C:\Users\ib91\Desktop\PyCharmProjects\openai\tests" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="python -m rag_assistant.qa_cli --show-context &quot;Hvordan vurderes vesentlighet etter ISA 320?&quot;" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="openai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="rag_assistant.qa_cli" />
+      <option name="PARAMETERS" value="--show-context &quot;Hvordan vurderes vesentlighet etter ISA 320?&quot;" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.python -m rag_assistant.qa_cli --show-context &quot;Hvordan vurderes vesentlighet etter ISA 320?&quot;" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
